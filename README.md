@@ -4,4 +4,5 @@
 ### The branch "python_grammar" and "python_program" contains files that I have learned in Professor Yang's class and I have modified according my ideas.
 ### The branch "python_library" is about the exercise for learning python library
 ### Here is the display of my programs
-### ![display of calculator](calculator.jpg)
+### ![display of calculator](calculator.JPG)
+### ![display of Simple Editor For Cutting Chinese Words](Simple Editor For Cutting Chinese Words.JPG)
